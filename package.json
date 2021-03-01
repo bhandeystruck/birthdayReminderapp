@@ -1,0 +1,14 @@
+{
+  "name": "birthdayreminder-react",
+  "version": "1.0.0",
+  "description": "A birthday reminder web app in react ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Bhandari",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
